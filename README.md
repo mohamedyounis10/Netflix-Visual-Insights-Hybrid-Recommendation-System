@@ -21,7 +21,6 @@ This repository contains a comprehensive data analysis and a hybrid recommendati
 - [Getting Started](#getting-started-)
   - [Requirements](#requirements-)
   - [Run the Notebook](#run-the-notebook-)
-- [Notes & Limitations](#notes--limitations-)
 - [HTML Header Template](#html-header-template-)
 - [Author](#author-)
 - [Acknowledgments](#acknowledgments-)
