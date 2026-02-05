@@ -107,6 +107,7 @@ What you can do with the dashboard:
 - 💳 Review billing/insurance breakdowns
 - 🔎 Slice & filter visuals for quick insights
   
+<img width="1277" height="727" alt="Screenshot 2026-02-05 200413" src="https://github.com/user-attachments/assets/7ec0b2b9-9c82-4be9-b60c-b177c17f8c3b" />
 
 ---
 
